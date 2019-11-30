@@ -1,0 +1,5 @@
+- clone this project
+- run "npm install" from CLI
+- run "npm start" from CLI
+- enable CORS in your browser
+- open JS console
